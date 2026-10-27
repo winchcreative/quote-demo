@@ -2,8 +2,8 @@
 
 ## StPageFlip (page-flip) 2.0.7
 
-- Used for the customer flipbook. Loaded from `/vendor/page-flip.browser.js` instead of a CDN, so a CDN
-  outage or compromise can't affect customer pages.
+- Used for the customer flipbook. Loaded from `vendor/page-flip.browser.js` instead of a CDN, so a CDN
+  outage or compromise can't affect the demo quote page.
 - Source: npm package `page-flip@2.0.7` (MIT licence, see `page-flip.LICENSE`),
   file `dist/js/page-flip.browser.js`, copied unmodified.
 - npm tarball integrity: `sha512-96lQFUUz7r/LZzEUZJ3yBIMEKU9+m8HMFDzTvTdD6P7Ag/wXINjp9n0W7b4wanwnDbQETo4uNUoL3zMqpFxwGA==`
